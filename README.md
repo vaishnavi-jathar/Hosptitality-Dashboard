@@ -12,4 +12,4 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
 3️⃣ DSRN (Daily Sellable Room Nights): Tracking the number of sellable room nights on a daily basis.
 4️⃣ URN (Utilized Room Nights): Calculating the number of rooms effectively utilized.
 5️⃣ BRN (Booked Room Nights): Monitoring the total number of booked room nights.
-Live Dashboard(https://lnkd.in/d9t9hK3S)
+Live Dashboard([https://lnkd.in/d9t9hK3S])
